@@ -10,6 +10,8 @@ bolt
 brltty
 git
 btrfs-progs
+chntpw
+clamav
 clonezilla
 cloud-init
 cryptsetup
@@ -33,13 +35,16 @@ foot-terminfo
 fsarchiver
 ghostty-terminfo
 gpart
+gparted
 gpm
 gptfdisk
 grml-zsh-config
 grub
 hdparm
+hwinfo
 hyperv
 intel-ucode
+inxi
 irssi
 iw
 iwd
@@ -56,6 +61,7 @@ linux-atm
 linux-firmware
 linux-firmware-marvell
 livecd-sounds
+lm_sensors
 lsscsi
 lvm2
 lynx
@@ -77,6 +83,7 @@ ndisc6
 nfs-utils
 nilfs-utils
 nmap
+ntfs-3g
 ntfsprogs
 nvme-cli
 open-iscsi
@@ -85,6 +92,7 @@ openconnect
 openpgp-card-tools
 openssh
 openvpn
+os-prober
 partclone
 parted
 partimage
@@ -120,6 +128,7 @@ usbutils
 vim
 virtualbox-guest-utils-nox
 vpnc
+wimlib
 wireless-regdb
 wireless_tools
 wpa_supplicant
